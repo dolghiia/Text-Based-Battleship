@@ -1,6 +1,6 @@
 #Alexander Dolghii, Mohammed Jan
 #5/05/2019
-#Dolghii_Jan_CA.py
+#Dolghii_Jan_Battleship.py
 #Program simulates a game of battleship
 
 Flag = True          #Used to start the menu overlay loop
